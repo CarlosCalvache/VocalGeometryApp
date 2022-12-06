@@ -8,7 +8,7 @@ and (3) Description of model and mechanical features to represent the vocal fold
 # Acknowledgments:
 This work is funded by Universidad Militar Nueva Granada - Vicerrectoría de Investigaciones,
 under research grant for project INV-ING-3483 "Construcción de un modelo biomecánico para la simulación de producción de voz y parametrización de la carga vocal".
-Partner institutions: Corporación Universitaria Iberoamericana and Vocology Center
+Partner institutions: Corporación Universitaria Iberoamericana and Vocology Center.
 PhD thesis by Carlos Calvache, SPL, Bogotá, Colombia
 
 # Installation:
